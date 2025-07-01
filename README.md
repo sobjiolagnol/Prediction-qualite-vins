@@ -108,7 +108,7 @@ Ce projet est sous licence **MIT**. Voir [LICENSE](LICENSE) pour plus de détail
 
 ---
 
-**👨‍💻 Auteur** : [Votre Nom]  
+**👨‍💻 Auteur** : [sobjiolagnol]  
 **📅 Dernière Mise à Jour** : Juillet 2024  
 
 ---
