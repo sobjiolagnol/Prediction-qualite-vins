@@ -1,6 +1,6 @@
 # **Prédiction de la Qualité des Vins - README**
 
-![Vin Rouge](https://www.levignoble.com/images/groupelevignoble/nos-produits/vin-rouge-1.jpg)
+![Vin Rouge](https://www.avenuedesvins.fr/img/cms/Page%20UNIVERS/trouvez%20votre%20vin%20rouge/Vin%20rouge%20+verre.jpeg)
 
 ## **📌 Aperçu du Projet**
 Ce projet vise à prédire la qualité des vins à l'aide de techniques d'apprentissage automatique. La qualité du vin est un facteur essentiel pour les consommateurs et les producteurs, influençant sa valeur marchande et son goût. En utilisant des propriétés physico-chimiques des vins, nous construisons des modèles pour classer leur qualité, aidant ainsi les producteurs à optimiser leurs processus et les consommateurs à faire de meilleurs choix.
