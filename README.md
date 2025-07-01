@@ -44,26 +44,6 @@ Plusieurs modèles ont été entraînés et évalués :
 ### **🔝 Meilleur Modèle**
 - La **Forêt Aléatoire** a obtenu la meilleure précision (**88%**) et le meilleur ROC AUC (**0.98**).
 
----
-
-## **📈 Évaluation des Modèles**
-### **1. Courbes ROC-AUC**
-- Évaluation des performances en classification multi-classes.
-- La Forêt Aléatoire a obtenu le plus haut AUC (0.98), indiquant une excellente séparabilité entre les classes.
-
-![Courbes ROC](https://miro.medium.com/v2/resize:fit:1400/1*4PdJ2owkDYQw6Q5fE-5l3A.png)
-
-### **2. Matrices de Confusion**
-- La **Forêt Aléatoire** a eu le moins de mauvaises classifications.
-  
-![Matrice de Confusion](https://www.researchgate.net/publication/336402347/figure/fig5/AS:812472659349505@1570719985505/Confusion-matrix-for-Random-Forest-classifier.png)
-
-### **3. Rapports de Classification**
-- **Précision, Rappel et F1-Score** ont été calculés pour chaque modèle.
-- La **Forêt Aléatoire** a obtenu le meilleur F1-score (0.88).
-
----
-
 ## **🚀 Comment Exécuter le Code**
 ### **1. Installer les Dépendances**
 ```bash
