@@ -1,6 +1,6 @@
 # **Prédiction de la Qualité des Vins - README**
 
-![Vin Rouge]([https://img.freepik.com/free-photo/red-wine-glass_1409-6220.jpg](https://elixirs-dexception.com/wp-content/uploads/2024/03/cepage-rouge-vin-leger.webp)
+![Vin Rouge]([https://img.freepik.com/free-photo/red-wine-glass_1409-6220.jpg](https://elixirs-dexception.com/wp-content/uploads/2024/03/cepage-rouge-vin-leger.webp])
 
 ## **📌 Aperçu du Projet**
 Ce projet vise à prédire la qualité des vins à l'aide de techniques d'apprentissage automatique. La qualité du vin est un facteur essentiel pour les consommateurs et les producteurs, influençant sa valeur marchande et son goût. En utilisant des propriétés physico-chimiques des vins, nous construisons des modèles pour classer leur qualité, aidant ainsi les producteurs à optimiser leurs processus et les consommateurs à faire de meilleurs choix.
