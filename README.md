@@ -82,18 +82,3 @@ Prédiction-Qualité-Vins/
 - Des améliorations futures pourraient inclure **l'optimisation des hyperparamètres** et l'utilisation de **réseaux neuronaux**.
 
 ---
-
-## **📜 Licence**
-Ce projet est sous licence **MIT**. Voir [LICENSE](LICENSE) pour plus de détails.
-
----
-
-**👨‍💻 Auteur** : [sobjiolagnol]  
-**📅 Dernière Mise à Jour** : Juillet 2024  
-
----
-### **🔗 Liens**
-- [Dépôt GitHub](https://github.com/lagnolsobjio/prediction-qualite-vins)
-- [Jeu de Données UCI Wine Quality](https://archive.ics.uci.edu/ml/datasets/wine+quality)
-
----
